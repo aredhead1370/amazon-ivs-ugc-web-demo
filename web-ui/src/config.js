@@ -6,7 +6,7 @@ export const DEFAULT_VIDEO_STREAM =
   "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8";
 
 // API endpoint for retrieving the stream list, signin, signup, getUsers, etc
-export const UGC_API = "";
+export const UGC_API = "https://80gfcf4vbl.execute-api.us-west-2.amazonaws.com/Prod/";
 
 // UGC path, defaults to "/"
 export const UGC_PATH = "/";
